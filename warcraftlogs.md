@@ -160,3 +160,83 @@ I filtered down to azerite traits used by those in the 99th percentile for Resto
 
 
 You can do similar searches for trinkets and talents. With all this knowledge combined, perhaps Darcilynn should put less focus on Autumn leaves, and use Archive of the Titans and Laser matrix and put more of a focus on casting Wild Growths over Rejuvenations.
+
+
+
+### Improving Raid Mechanics
+
+Damage done and Healing done are the most straight forward numbers to improve on but that isn’t all that is necessary for improving in raids. If you don’t correctly execute raid mechanics, it doesn’t matter how hard you hit or heal, you’ll get the raid wiped.
+
+
+
+Using warcraft logs to determine if you’re messing up raid mechanics is much less straight forward than just figuring out how to improve your DPS/HPS numbers, but it CAN be done. We’re going follow Darcilynn through a few different fights and look at how they preform on raid mechanics.
+
+
+
+#### Damage taken and Debuffs
+
+One of the most obvious signs of messing up raid mechanics is taking too much damage or too many debuffs. Lets look at [Darcylinn’s debuffs on Vectis](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=7&type=auras&source=23&spells=debuffs).
+
+
+
+![1538287730543](./1538287730543.png)
+
+
+
+In Vectis, messing up raid mechanics will apply extra stacks of `Lingering Infection`. We want to minimize the number of stacks of this debuff, but Darcilynn got 14!
+
+
+
+![1538287877637](./1538287877637.png)
+
+
+
+If we look at the [raid as a whole](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=7&type=auras&spells=debuffs&ability=265127) Darcilynn took the most number of stacks, while some players managed to take only 1. This is certainly room for improvement.
+
+
+
+In a more complicated fight, like Mythrax, we may have to look at the number of times someone gets hit by a particular skill. In Mythrax, players really need to avoid taking `Obliteration blast` and `obliteration beam` to the face. [Darcilynn](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=last&type=damage-taken&source=23) appears to have managed to avoild the blast, but has 11 hits from the beam (meaning he probably ate the entirety of a beam). 
+
+
+
+![1538288220938](./1538288220938.png)
+
+
+
+While this isn’t a mechanic that results in the immediate death of other raid members, losing a player puts stress on the rest of the raid and just makes everyones job harder. Remember, when you die your DPS/HPS goes to 0.
+
+
+
+#### Replay
+
+An important part of Mythrax is positioning. You can use the [fight replay](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=last&view=replay) feature to rewatch the entire fight. This is useful for a number of things, but its especially useful for seeing how you can improve positioning.
+
+
+
+You can see in the replay, Darcilynn, and most of the other range players, plant their feet throughout the fight, moving only slightly to avoid blasts and then repositioning again and staying still.
+
+
+
+The melee, on the other hand, are constantly moving and repositioning. This constant movement in a fight where you MUST stay 5yards spread is incredibly taxing on other raid members. It is important to note, there is certainly enough space for the melee to stand 5 yards apart, move for mechanics, and then move back into their positions. 
+
+
+
+#### Dispels
+
+You can also look at dispels to glean some information about where a fight went wrong. In Zuul, you need to dispel players who are feared before they leap to their deaths. On the [first Zuul pull of the night](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=9&type=dispels). Most of the dispels were handled by Babybeans.
+
+
+
+![1538288757202](./1538288757202.png)
+
+
+
+That’s a lot of stress to put on a DPS who should be focused on, well, dpsing. This pull resulted in a wipe. [Our next pull though](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=10&type=dispels) was a success!
+
+
+
+![1538288889185](./1538288889185.png)
+
+
+
+The healers properly pitched in on this, leaving the DPS to keep dpsing.
