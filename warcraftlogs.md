@@ -66,7 +66,7 @@ This is usually where most people stop. Knowing where you fall on the bell curve
 
 #### Individual breakdown
 
-![1538282725678](C:\Users\ddive\Documents\KOMDocs\1538282725678.png)
+![1538282725678](./1538282725678.png)
 
 
 
@@ -74,7 +74,7 @@ This page gives slightly more useful stats than the overview. We can see here ho
 
 
 
-![1538282992934](C:\Users\ddive\Documents\KOMDocs\1538282992934.png)
+![1538282992934](./1538282992934.png)
 
 
 
@@ -88,7 +88,7 @@ On the top, there are 5 buttons: Analyze, Compare, Problems, Rankings, Replay. I
 
 
 
-![1538283305753](C:\Users\ddive\Documents\KOMDocs\1538283305753.png)
+![1538283305753](./1538283305753.png)
 
 
 
@@ -104,7 +104,7 @@ The default settings for the search are fairly okay, but you may want to relax t
 
 
 
-![1538283742800](C:\Users\ddive\Documents\KOMDocs\1538283742800.png)
+![1538283742800](./1538283742800.png)
 
 
 
@@ -116,7 +116,7 @@ There are a few healers in these constraints who healed 3-5k more than Darcilynn
 
 Starting with the summary page again
 
-![1538284372976](C:\Users\ddive\Documents\KOMDocs\1538284372976.png)
+![1538284372976](./1538284372976.png)
 
 
 
@@ -129,7 +129,7 @@ Azerite powers could be another large source of difference. Darcilynn has 2 stac
 
 
 
-![1538283848822](C:\Users\ddive\Documents\KOMDocs\1538283848822.png)
+![1538283848822](./1538283848822.png)
 
 
 
@@ -143,7 +143,7 @@ We can use [the rankings page](https://www.warcraftlogs.com/zone/rankings/19) to
 
 
 
-![1538284989010](C:\Users\ddive\Documents\KOMDocs\1538284989010.png)
+![1538284989010](./1538284989010.png)
 
 
 
@@ -151,7 +151,7 @@ This is interesting information. Top resto druids on this fight are healing upwa
 
 
 
-![1538285792192](C:\Users\ddive\Documents\KOMDocs\1538285792192.png)
+![1538285792192](./1538285792192.png)
 
 
 
