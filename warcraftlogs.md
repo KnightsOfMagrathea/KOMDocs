@@ -12,9 +12,7 @@ If you’ve joined on any raids or listened in on our raid discussions, you’ve
 
 Wait. Slow down. Backup. What in the WORLD is a “parse” and what in the world does it have to do with a players abilities?
 
-
-
-Well, lets start by talking about how Warcraft logs works and what it keeps track of.
+A "parse" represents your position against other players of the same class/spec. If you parse a 97% as a resto druid, that means you're better than 97% of  resto druids.
 
 
 
@@ -46,7 +44,7 @@ In summary tab you can see a cool little graph of the raids overall per-second s
 
 
 
-If you look further down the page, you can see the “Damage Done By Source” and “Healing Done By Source” sections. These sections are what people most frequently come to Warcraft logs for. You can click on the “Damage Done” and “Healing Done” tabs at the top for more detailed tables. Lets click into the [“Healing Done” section](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=8&type=healing) and get a better look at these stats.
+If you look further down the page, you can see the “Damage Done By Source” and “Healing Done By Source” sections. These sections are what people most frequently come to Warcraft logs for. You can click on the “Damage Done” and “Healing Done” tabs at the top for more detailed tables.
 
 
 
@@ -56,11 +54,11 @@ If you look further down the page, you can see the “Damage Done By Source” a
 
 
 
-This is where you can see your “parse” number. A parse is simply a [percentile rank](https://en.wikipedia.org/wiki/Percentile_rank) for the HPS or DPS you did for that fight. In other words, in this Zek’voz kill, Darcilynn healed `20,738.6`. Of all Zek’voz kills on record, that `20,738` is in better than 97% of other resto druids heals per seconds and better than 96% of resto druids of the same ilvl.
+Lets click into the [“Healing Done” section](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=8&type=healing) and get a better look at these stats. This is where you can see your “parse” number. A parse is simply a [percentile rank](https://en.wikipedia.org/wiki/Percentile_rank) for the HPS or DPS you did for that fight. In other words, in this Zek’voz kill, Darcilynn healed `20,738.6`. Of all Zek’voz kills on record, that `20,738` is in better than 97% of other resto druids heals per seconds and better than 96% of resto druids of the same ilvl.
 
 
 
-This is usually where most people stop. Knowing where you fall on the bell curve and trying to get that number up is an admirable goal, but really the question becomes HOW do we get this number up. Luckily, Warcraft logs gives much much deeper details than just this number. Lets dig into [Darcilynn’s report](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=8&type=healing&source=23) on this fight.
+This is usually where most people stop. Knowing where you fall on the bell curve and trying to get that number up is an admirable goal, but really the question becomes HOW do we get this number up. Luckily, Warcraft logs gives much much deeper details than just this number.
 
 
 
@@ -70,7 +68,7 @@ This is usually where most people stop. Knowing where you fall on the bell curve
 
 
 
-This page gives slightly more useful stats than the overview. We can see here how much each heal does on average, how often each heal procs (which is especially useful for determining if certain traits are good), the uptime for each spell, and how much each spell overhealed.
+Lets dig into [Darcilynn’s healing report](https://www.warcraftlogs.com/reports/tDvxKpm7n6aGyNgJ#fight=8&type=healing&source=23) on this fight. This page gives slightly more useful stats than the overview. We can see here how much each heal does on average, how often each heal procs (which is especially useful for determining if certain traits are good), the uptime for each spell, and how much each spell overhealed.
 
 
 
