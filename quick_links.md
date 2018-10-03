@@ -12,6 +12,8 @@ Websites / Web Tools
 
 [Bloodmallet](https://bloodmallet.com/) Look up your best in slot gear!
 
+[WoW BIS](https://www.wowbis.net/) Another great site for looking up best in slots!
+
 
 
 Addons
