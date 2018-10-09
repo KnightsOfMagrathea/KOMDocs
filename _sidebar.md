@@ -2,3 +2,4 @@
   * [Quick Links](quick_links)
   * [Warcraft Logs](warcraftlogs)
 
+  * [Sims](sims)
