@@ -4,7 +4,7 @@ You can take your current gear and talents and run it through various tools to f
 
 
 
-There are various tools for this, but the most popular and most used is [RaidBots](https://www.raidbots.com/simbot).
+There are various tools for this, but the most popular and most used is [RaidBots](https://www.raidbots.com/simbot). RaidBots has a paid version that lets you skip the queues. I do not pay for RaidBots, I sit around and wait for the queue to finish, but if you are impatient you can pony up and help support RaidBots.
 
 
 
@@ -62,11 +62,21 @@ Just adjusting my rotation I can add an extra .5k dps. With some practice I shou
 
 
 
+### Options
+
+If we go back to [quick sim](https://www.raidbots.com/simbot/quick) we can adjust the settings to give us a better idea of how we would do in different fights. For example, the default is a 3 minute fight, which reflects Mythic+ very well, but a Raid fight may take 5-7 minutes.
+
+
+
+There are other options, like fight style and number of bosses, that you can change to get an idea of how you should do in different scenarios.
+
+![1539317585950](./1539317585950.png)
+
 ## Best in Bag
 
 We can use [top gear](https://www.raidbots.com/simbot/topgear) to find the best gear in our bags.
 
-As a [benchmark](https://www.raidbots.com/simbot/report/nuacSps2Saz1GC7HRyERJ3)I put on some random rings and trinkets. With this random set of gear I sim at 8,689 dps.
+As a [benchmark](https://www.raidbots.com/simbot/report/nuacSps2Saz1GC7HRyERJ3) I put on some random rings and trinkets. With this random set of gear I sim at 8,689 dps.
 
 I don't have premium, so I'm limited to 300k iterations. The more gear you want to compare, the more iterations it will take. So for now, im going to lock in my 'Lady Waycrest's music box' and compare 3 trinkets and 3 rings for the other slots. The [end result](https://www.raidbots.com/simbot/report/3YLf5q8kHS75CnCKUFuuBo) is that i should use rot-scour ring, 'Lord Waycrests signet' and 'Ignition Mage's Fuse'. This puts me at 9156 dps.
 
@@ -91,3 +101,22 @@ If we use the talent compare tool, we can determine if should use 'Chosen of Elu
 
 
 If you're curious, resto druids do about [30% less dps](https://www.raidbots.com/simbot/report/8aX5ffGZbzod2317Krg3T) when taking balance or guardian affinity over feral affinity.
+
+
+
+## Stat Weights
+
+Its common to want to know what stat you need more of. Looking at [icy-veins](https://icy-veins.com/) can give you an idea what your classes stat priority in general is, but raid bots gives [a nice tool for figuring out your stat weights for you specifically.](https://www.raidbots.com/simbot/stats)
+
+
+
+If I sim my gear https://www.raidbots.com/simbot/report/mHP9j7Feq4ktpBpeSpZeMr these are the exact weights I need to optimize my resto druids DPS with my current gear.
+
+![1539318944613](./1539318944613.png)
+
+If we look on this page, there is a pawn string. You can copy that string and import it into pawn.
+
+![1539319020208](./1539319020208.png)
+
+This will help pawn be far more accurate in the upgrades it shows you.
+
