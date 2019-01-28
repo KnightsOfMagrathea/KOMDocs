@@ -14,6 +14,9 @@ Websites / Web Tools
 
 [WoW BIS](https://www.wowbis.net/) Another great site for looking up best in slots!
 
+[Raid Plan](https://raidplan.io/) A site for creating maps and plans for people to follow for how a fight should go.
+  * [Battle of Dazar'alor - Champion of Light](https://raidplan.io/plan/HAfpCJWDIMx9iM9E)
+
 
 
 Addons
